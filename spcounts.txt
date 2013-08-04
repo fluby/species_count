@@ -1,0 +1,7 @@
+bluejay 22
+eagle 3
+grouse 3
+mallard 22
+pheasant 8
+sparrow 20
+Turdus migratorius 16
