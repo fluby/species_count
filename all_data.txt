@@ -1,4 +1,5 @@
 # These are all the data files concatenated using the shell command cat
+# toy data for the software carpentry workshop at ESA 2013
 
 2013-03-21 bluejay 5
 2013-03-21 mallard 9
